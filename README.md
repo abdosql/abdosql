@@ -1,133 +1,72 @@
-# SAQQAL Abdelaziz
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+SAQQAL+Abdelaziz;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
 
-**Full Stack Engineer | Symfony & Laravel Specialist | AI Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Symfony+%26+Laravel+Specialist;AI+Enthusiast;Always+Learning%2C+Always+Innovating" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/AI-00ADD8?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI">
+</p>
 
-📍 **Location:** Oujda, Oriental, Morocco  
-✉️ **Email:** [seqqal.abdelaziz@gmail.com](mailto:seqqal.abdelaziz@gmail.com)  
-📱 **Phone:** +212708083110  
-🔗 **LinkedIn:** [linkedin.com/in/saqqal-abdelaziz](https://linkedin.com/in/saqqal-abdelaziz)  
-🐱 **GitHub:** [abdosql](https://github.com/abdosql)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdosql&show_icons=true&theme=radical" alt="Abdelaziz's GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdosql&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 🚀 About Me
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-Passionate Full Stack Engineer with a strong foundation in **Symfony**, **Laravel**, and **Flutter**. Currently pursuing an Engineering degree in Computer Science with a focus on developing innovative and efficient software solutions. Experienced in integrating AI technologies and implementing robust architectures like **CQRS** and **Microservices**. Committed to continuous learning and adept at collaborating in both on-site and remote environments.
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
----
+<h2 align="center">🌟 Featured Projects</h2>
 
-## 💼 Professional Experience
+<p align="center">
+  <a href="https://github.com/abdosql/LLMIntegrationBundle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdosql&repo=LLMIntegrationBundle&theme=radical" alt="LLMIntegrationBundle" />
+  </a>
+  <a href="https://github.com/abdosql/InterviewManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdosql&repo=InterviewManagementSystem&theme=radical" alt="Interview Management System" />
+  </a>
+</p>
 
-### **PHP Developer Intern**  
-**SQLI**, Oujda, Morocco  
-*July 2024 - August 2024*  
-- Developed an interview management system using **Symfony 7** and **PHP 8.2**.  
-- Integrated Large Language Models (LLMs) for real-time evaluations and implemented **CQRS** architecture.
+<h2 align="center">📫 Let's Connect</h2>
 
-### **Full Stack Engineer**  
-**viby-z**, Casablanca, Morocco (Remote)  
-*October 2023 - December 2023*  
-- Developed full-stack applications with **Laravel** and **Flutter**.  
-- Collaborated on building robust software solutions and ensuring seamless integration across platforms.
+<p align="center">
+  <a href="mailto:seqqal.abdelaziz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/saqqal-abdelaziz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/abdosql"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-### **Mathematics and Physics Tutor**  
-**Espace Ghita El Aioun Sidi Mellouk**, Morocco  
-*September 2019 - Present*  
-- Prepared students for exams and provided ongoing academic support.
+<h2 align="center">🏆 GitHub Trophies</h2>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdosql&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
 
-## 🎓 Education
+<h2 align="center">📈 Contribution Graph</h2>
 
-### **Diplôme d’Ingénieur d'État - Génie Informatique**  
-**École des Hautes Études d’Ingénierie**, Oujda  
-*2022 - 2025*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdosql&theme=react-dark" alt="Contribution Graph" />
+</p>
 
-### **Licence en Physique**  
-**Université Mohammed Premier, Faculté des Sciences**, Oujda  
-*2017*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdosql&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-### **Baccalauréat - Science Physique et Chimique**  
-**Lycée Ezzaytoun El Aioun Sidi Mellouk**, Oriental, Morocco  
-*2016 - 2017*
-
----
-
-## 🛠️ Skills
-
-### **Programming Languages**
-- PHP, Python, JavaScript, TypeScript, C, C++, Java, C#
-
-### **Databases**
-- MySQL, MongoDB, PostgreSQL
-
-### **Frameworks & Libraries**
-- Symfony, Laravel, Flask, ASP.Net Core, Spring Boot, Bootstrap, Angular, jQuery, React
-
-### **DevOps Tools**
-- Docker, Composer, Maven, GIT, JUnit, PhpUnit
-
-### **Architectural & Design Patterns**
-- UML, Microservices, CQRS, Event-Driven Architecture, TDD, Repository, Factory, Strategy, Decorator, Adapter, Singleton, Command, Facade, Transformer, SOLID Principles
-
-### **Other Technologies**
-- RabbitMQ, API Platform 3
-
----
-
-## 📂 Projects
-
-### **LLMIntegrationBundle**  
-*September 2024*  
-A Symfony bundle that simplifies the integration of Language Learning Models (LLMs) with support for **OpenAI**, **API Together**, **Anthropic**, and more through a unified API. Features include configuration management and error handling.
-
-### **Interview Management System**  
-*July 2024 - August 2024*  
-Developed for **SQLI**, this AI-powered system manages interviews using **Symfony 7**, **PHP 8.2**, and **CQRS** architecture. Utilizes LLMs for real-time assistance and automated evaluations.
-
-### **Personalized Product Recommendation System**  
-*June 2024*  
-A hybrid recommendation system built with **Symfony** and **Flask**, leveraging cosine similarity for collaborative filtering and event-driven architecture for scalability.
-
-### **FaceGuard School Management System**  
-*December 2023 - May 2024*  
-Automated school management using **Symfony**, **Flask**, and **Arduino**. Features include student grouping, scheduling, and attendance tracking via RFID technology.
-
-### **Advanced Web Search Engine**  
-*December 2023 - January 2024*  
-Constructed a web search engine using **Symfony** and **BERT** to deliver advanced and contextually relevant search results.
-
-### **ANH Framework**  
-*August 2023 - September 2023*  
-Developed a custom PHP MVC framework focused on efficiency, scalability, and security. Includes a templating engine, data validation, and authentication mechanisms.
-
----
-
-## 📜 Certifications
-
-- **API Platform 3** - SymfonyCasts, March 2024
-- **Doctrine, Symfony and Databases** - SymfonyCasts, March 2024
-- **Go Pro with Doctrine Queries** - SymfonyCasts
-- **Harmonious Development with Symfony 6** - SymfonyCasts
-- **Fundamentals of Symfony 6: Services, Configuration, and Environments** - SymfonyCasts
-
----
-
-## 🌐 Languages
-
-- **Arabic:** Native
-- **French:** Fluent (Reading, Writing, Oral Communication)
-- **English:** Fluent
-
----
-
-## 🎯 Interests
-
-- System Design
-- Educational Technology
-- Automation Innovation
-- Time Management
-
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+innovating.;Welcome+to+my+GitHub+journey!" alt="Typing SVG" />
+</h3>
